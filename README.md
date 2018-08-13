@@ -1,2 +1,3 @@
 # GetIO-Qlikview
-Extractor de input y output de un script ya importado a txt
+Extract input and output of qvscript
+
